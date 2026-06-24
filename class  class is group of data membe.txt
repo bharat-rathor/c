@@ -1,0 +1,56 @@
+class : class is group of data member and member function
+
+object : using of object we can access all the properties of class
+
+class which is declare with class keyword 
+
+ex    1_aug_se : WhatsApp group class
+
+muskan 
+snehal
+
+(object) : object can add member 
+	   object can remove member 
+
+class 1_aug_se 
+	WhatsApp group 
+	anjli-data member
+
+	add() : member function 
+
+// int rollno; // data member 
+ string name; //data member 
+
+void add(){
+}
+
+void remove(){
+}
+
+2) what is different between function and methods ? 
+ans : 
+function : function are always independent 
+	   function is block of code that code are use and again 
+	   using of function we can using of function we can reduce our work
+ex : printf() , scanf();
+
+method : - method is dependent on class 
+	 - method is block of code that code are use and again
+ 	  using of function
+	 - we can using of function we can reduce our work
+	method always declare in class 
+ex  : 
+	.insert();
+	.apped();
+
+	
+3) inheritance : one class derived of another class its called inheritance 
+	
+there are many type of inheritance 
+single level inheritance 
+multilevel inheritance 
+multiple inheritance 
+hybrid inheritance 
+hierarchical inheritance 
+
+
